@@ -20,3 +20,4 @@ Lança o test runner no iterativo modo.\
 
 Faz o build the app para a produção na pasta `build` .\
 Isso irá minificar arquivos e realizar otimizações deixando o app pronto para o deploy.
+gi
